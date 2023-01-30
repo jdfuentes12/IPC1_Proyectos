@@ -1,0 +1,4 @@
+Link de la pagina: https://frontend-ipc-p2.herokuapp.com/index.html
+Link de heroku: https://backend-ipc-p2.herokuapp.com/usuarios
+Repositorio Frontend: https://github.com/jdfuentes12/Frontend-IPC1-P2
+Repositorio Backend: https://github.com/jdfuentes12/Backend-IPC1-P2
